@@ -12,7 +12,6 @@ __New York University, Grossman School of Medicine__
 - [Repo Contents](#repo-contents)
 - [System Requirements](#system-requirements)
 - [License](./LICENSE)
-- [Citation](#citation)
 
 # Overview
 
